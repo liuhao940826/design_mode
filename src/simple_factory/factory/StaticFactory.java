@@ -1,7 +1,7 @@
 package simple_factory.factory;
 
-import simple_factory.product.Cat;
-import simple_factory.product.Dog;
+import simple_factory.model.Cat;
+import simple_factory.model.Dog;
 /**
  * @Author: liuhao
  * @Description:

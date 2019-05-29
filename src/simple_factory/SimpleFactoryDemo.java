@@ -2,8 +2,8 @@ package simple_factory;
 
 import simple_factory.factory.SimplyFactory;
 import simple_factory.factory.StaticFactory;
-import simple_factory.product.Cat;
-import simple_factory.product.Dog;
+import simple_factory.model.Cat;
+import simple_factory.model.Dog;
 
 
 /**
