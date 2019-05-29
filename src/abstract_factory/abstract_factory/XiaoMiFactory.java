@@ -13,12 +13,12 @@ import abstract_factory.model.disk.XiaoMiDisk;
 public class XiaoMiFactory extends AbstractFactory {
 
     @Override
-    Cpu createCpu() {
+    public Cpu createCpu() {
         return new XiaoMiCpu();
     }
 
     @Override
-    Disk createDisk() {
+    public Disk createDisk() {
         return new XiaoMiDisk();
     }
 }

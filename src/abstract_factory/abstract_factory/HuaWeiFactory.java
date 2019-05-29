@@ -13,12 +13,12 @@ import abstract_factory.model.disk.HuaWeiDisk;
 public class HuaWeiFactory extends AbstractFactory {
 
     @Override
-    Cpu createCpu() {
+    public Cpu createCpu() {
         return new HuaWeiCpu();
     }
 
     @Override
-    Disk createDisk() {
+    public Disk createDisk() {
         return new HuaWeiDisk();
     }
 }

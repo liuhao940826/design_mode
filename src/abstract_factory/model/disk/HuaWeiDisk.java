@@ -10,7 +10,7 @@ import abstract_factory.model.cpu.Cpu;
 public class HuaWeiDisk extends Disk {
 
     @Override
-    void storage() {
+    public void storage() {
         System.out.println("华为  disk........");
     }
 }

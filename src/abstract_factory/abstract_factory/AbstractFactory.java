@@ -10,8 +10,8 @@ import abstract_factory.model.disk.Disk;
  */
 public abstract class AbstractFactory {
 
-    abstract Cpu createCpu();
+    public abstract Cpu createCpu();
 
-    abstract Disk createDisk();
+    public abstract Disk createDisk();
 
 }

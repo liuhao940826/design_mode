@@ -7,5 +7,5 @@ package abstract_factory.model.disk;
  */
 public abstract class Disk {
 
-    abstract void storage();
+    public abstract void storage();
 }

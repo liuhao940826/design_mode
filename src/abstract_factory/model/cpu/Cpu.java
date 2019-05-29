@@ -7,5 +7,5 @@ package abstract_factory.model.cpu;
  */
 public abstract class Cpu {
 
-    abstract void calculate();
+    public abstract void calculate();
 }

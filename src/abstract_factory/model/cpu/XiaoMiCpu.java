@@ -8,7 +8,7 @@ package abstract_factory.model.cpu;
 public class XiaoMiCpu extends Cpu {
 
     @Override
-    void calculate() {
+    public void calculate() {
         System.out.println("小米 cpu.......");
     }
 }
