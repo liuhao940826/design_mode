@@ -34,7 +34,7 @@ public class JDKProxyFactory implements InvocationHandler {
         // Proxy是JDK中的API类
         // 第一个参数：目标对象的类加载器
         // 第二个参数：目标对象的接口
-        // 第二个参数：代理对象的执行处理器
+        // 第二个参数：代理对象的执行处理器 invocationHandler
         Object object = Proxy.newProxyInstance(target.getClass().getClassLoader(), target.getClass().getInterfaces(),
                 this);
 
@@ -46,11 +46,11 @@ public class JDKProxyFactory implements InvocationHandler {
      */
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-        Method method2 = target.getClass().getMethod("saveUser", null);
-        Method method3 = Class.forName("com.sun.proxy.$Proxy4").getMethod("saveUser", null);
-        System.out.println("目标对象的方法:" + method2.toString());
+//        Method method2 = target.getClass().getMethod("singing", null);
+//        Method method3 = Class.forName("com.sun.proxy.$Proxy4").getMethod("singing", null);
+//        System.out.println("目标对象的方法:" + method2.toString());
         System.out.println("目标接口的方法:" + method.toString());
-        System.out.println("代理对象的方法:" + method3.toString());
+//        System.out.println("代理对象的方法:" + method3.toString());
         System.out.println("这是jdk的代理方法");
         // 下面的代码，是反射中的API用法
         // 该行代码，实际调用的是[目标对象]的方法
