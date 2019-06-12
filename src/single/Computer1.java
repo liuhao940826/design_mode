@@ -2,7 +2,7 @@ package single;
 
 /**
  * @Author: liuhao
- * @Description:
+ * @Description: 单例模式双层锁校验机制
  * 在Java指令中创建对象和赋值操作是分开进行的，也就是说instance = new Singleton();语句是分两步执行的。
  *    但是JVM并不保证这两个操作的先后顺序，也就是说有可能JVM会为新的Singleton实例分配空间，然后直接赋值给instance成员，然后再去初始化这个Singleton实例。
  *    这样就可能出错了，我们以A、B两个线程为例：
