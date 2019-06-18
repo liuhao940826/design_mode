@@ -2,7 +2,7 @@ package single;
 
 /**
  * @Author: liuhao
- * @Description:
+ * @Description: 单例模式的最终表现形态
  * @Date: Create in 10:36 PM 2019/5/29
  */
 public class Computer2 {
