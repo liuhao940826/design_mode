@@ -32,7 +32,7 @@ public class Mantis implements InvocationHandler {
 
         Object invoke = method.invoke(target, args);
 
-
+        minorFunction();
 
         return invoke;
     }
