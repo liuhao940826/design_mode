@@ -30,9 +30,12 @@ public class Bird implements InvocationHandler {
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
 
+        Object invoke = method.invoke(target, args);
+
         //次要业务执行
         minorFunction();
-        return  method.invoke(target,args);
+
+        return invoke;
     }
 
 

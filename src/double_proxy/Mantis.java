@@ -30,9 +30,9 @@ public class Mantis implements InvocationHandler {
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
 
-        minorFunction();
-
         Object invoke = method.invoke(target, args);
+
+
 
         return invoke;
     }
