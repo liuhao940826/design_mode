@@ -31,7 +31,7 @@ public class Mantis implements InvocationHandler {
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
 
         Object invoke = method.invoke(target, args);
-
+        //次要业务 后增强
         minorFunction();
 
         return invoke;
