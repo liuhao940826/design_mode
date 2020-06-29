@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88813ba7-9f1a-4493-8cef-eab7864bc6f9" name="Default Changelist" comment="add comment">
+    <list default="true" id="88813ba7-9f1a-4493-8cef-eab7864bc6f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/templete/variation/AbstractTemplete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templete/variation/TestProcess1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templete/variation/model/BaseScheduleBo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/double_proxy/ApplicationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/double_proxy/ApplicationMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/double_proxy/BeanFatory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/double_proxy/BeanFatory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/builder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/README.md" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,108 +15,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/double_proxy/Mantis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/double_proxy/Bird.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/abstract_factory/abstract_factory/AbstractFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/double_proxy/ApplicationMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/double_proxy/BeanFatory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/abstract_factory/abstract_factory/HuaWeiFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/abstract_factory/abstract_factory/XiaoMiFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/decorate/笔记">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/reflect/InvocationHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/double_proxy/AbstractService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,63 +27,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/factory/factory/SimplyFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/factory/CatFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/factory/CarFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/factory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/factory/BigCarFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/factory/SmallCarFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/model/BigCar.java" />
-        <option value="$PROJECT_DIR$/src/factory/model/SmallCar.java" />
-        <option value="$PROJECT_DIR$/src/factory/model/Car.java" />
-        <option value="$PROJECT_DIR$/src/factory/factory/BenzCarFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/AbstractFactoryDemo.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/model/Car.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/abstract_factory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/abstract_factory/HuaWeiFactory.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/abstract_factory/XiaoMiFactory.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/model/cpu/Cpu.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/model/cpu/HuaWeiCpu.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/model/cpu/XiaoMiCpu.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/model/disk/Disk.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/model/disk/HuaWeiDisk.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/model/disk/XiaoMiDisk.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/AbstractFactoryDemo.java" />
-        <option value="$PROJECT_DIR$/src/abstract_factory/README.md" />
-        <option value="$PROJECT_DIR$/src/factory/README.md" />
-        <option value="$PROJECT_DIR$/src/simple_factory/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/prototype/model/cpu/HuaWeiCpu.java" />
-        <option value="$PROJECT_DIR$/src/prototype/model/cpu/Cpu.java" />
-        <option value="$PROJECT_DIR$/src/prototype/README.md" />
-        <option value="$PROJECT_DIR$/src/builder/README.md" />
-        <option value="$PROJECT_DIR$/src/prototype/PrototypeDemo.java" />
-        <option value="$PROJECT_DIR$/src/prototype/Prototype.java" />
-        <option value="$PROJECT_DIR$/src/single/Computer.java" />
-        <option value="$PROJECT_DIR$/src/single/Computer2.java" />
-        <option value="$PROJECT_DIR$/src/single/Computer1.java" />
-        <option value="$PROJECT_DIR$/src/proxy/CgLibProxyFactory.java" />
-        <option value="$PROJECT_DIR$/src/proxy/StarSerivce.java" />
-        <option value="$PROJECT_DIR$/src/proxy/service/StarSerivce.java" />
-        <option value="$PROJECT_DIR$/src/proxy/service/StarSerivceImpl.java" />
-        <option value="$PROJECT_DIR$/src/proxy/JDKProxyFactory.java" />
-        <option value="$PROJECT_DIR$/src/proxy/test/ProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/templete/BaiduCompany.java" />
-        <option value="$PROJECT_DIR$/src/templete/AlibabaCompany.java" />
-        <option value="$PROJECT_DIR$/src/templete/TestProcess.java" />
-        <option value="$PROJECT_DIR$/src/templete/Company.java" />
-        <option value="$PROJECT_DIR$/src/double_proxy/AbstractService.java" />
-        <option value="$PROJECT_DIR$/src/double_proxy/Cicada.java" />
-        <option value="$PROJECT_DIR$/src/double_proxy/Bird.java" />
-        <option value="$PROJECT_DIR$/src/double_proxy/Mantis.java" />
-        <option value="$PROJECT_DIR$/src/double_proxy/BeanFatory.java" />
-        <option value="$PROJECT_DIR$/src/double_proxy/ApplicationMain.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -194,48 +35,12 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="931" />
-  </component>
+  <component name="ProjectId" id="1dz16dkG5QVIm41D0CRejgx5ZUg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="design_mode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_mode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_mode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_mode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_mode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_mode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="double_proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -252,10 +57,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="templete.variation.model" />
+      <recent name="templete.variation" />
       <recent name="templete" />
       <recent name="single" />
       <recent name="abstract_factory.model.disk" />
-      <recent name="factory.factory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/proxy/lib" />
@@ -265,38 +71,13 @@
       <recent name="$PROJECT_DIR$/src/factory" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ApplicationMain">
+  <component name="RunManager" selected="Application.TestProcess1 (1)">
     <configuration name="AbstractFactoryDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstract_factory.AbstractFactoryDemo" />
       <module name="design_mode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="abstract_factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AbstractFactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory.AbstractFactoryDemo" />
-      <module name="design_mode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple_factory.SimpleFactoryDemo" />
+    <configuration name="PrototypeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prototype.PrototypeDemo" />
       <module name="design_mode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simple_factory.*" />
+          <option name="PATTERN" value="prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,20 +124,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestProcess1 (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="templete.variation.TestProcess1" />
+      <module name="design_mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="templete.variation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProcess1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="templete.variation.TestProcess1" />
+      <module name="design_mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="templete.variation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.SimpleFactoryDemo" />
-      <item itemvalue="Application.AbstractFactoryDemo" />
+      <item itemvalue="Application.TestProcess1 (1)" />
       <item itemvalue="Application.AbstractFactoryDemo (1)" />
       <item itemvalue="Application.TestProcess" />
       <item itemvalue="Application.ApplicationMain" />
+      <item itemvalue="Application.PrototypeDemo" />
+      <item itemvalue="Application.TestProcess1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ApplicationMain" />
         <item itemvalue="Application.TestProcess" />
+        <item itemvalue="Application.TestProcess1" />
+        <item itemvalue="Application.PrototypeDemo" />
+        <item itemvalue="Application.ApplicationMain" />
         <item itemvalue="Application.AbstractFactoryDemo (1)" />
-        <item itemvalue="Application.AbstractFactoryDemo" />
-        <item itemvalue="Application.SimpleFactoryDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +187,17 @@
       <workItem from="1566227535178" duration="3000" />
       <workItem from="1589206261400" duration="702000" />
       <workItem from="1589335272373" duration="10416000" />
-      <workItem from="1590115513534" duration="77000" />
+      <workItem from="1590115513534" duration="461000" />
+      <workItem from="1590315100323" duration="1028000" />
+      <workItem from="1590565642272" duration="886000" />
+      <workItem from="1590761052545" duration="4872000" />
+      <workItem from="1592278125097" duration="812000" />
+      <workItem from="1592400334366" duration="495000" />
+      <workItem from="1592718645109" duration="306000" />
+      <workItem from="1592801424355" duration="3359000" />
+      <workItem from="1593311156377" duration="7000" />
+      <workItem from="1593412937566" duration="1612000" />
+      <workItem from="1593414638535" duration="502000" />
     </task>
     <task id="LOCAL-00001" summary="part design_mode">
       <created>1559122704441</created>
@@ -486,81 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1589347208960</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="fix">
+      <created>1590115603599</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590115603599</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30763000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="927" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771673" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32934132" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32814372" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4993895" weight="0.32967034" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32934132" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="BPMNPalette" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32967034" />
-      <window_info anchor="right" id="Maven" order="10" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2741148" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32934132" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32814372" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4993895" weight="0.32967034" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32934132" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="BPMNPalette" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32967034" />
-      <window_info anchor="right" id="Maven" order="10" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -577,351 +329,47 @@
     <MESSAGE value="add proxy test" />
     <MESSAGE value="add templete" />
     <MESSAGE value="添加多级代理逻辑" />
-    <MESSAGE value="fix" />
     <MESSAGE value="add comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="add comment" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/simple_factory/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="20" selection-start-column="20" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/model/disk/HuaWeiDisk.java" />
-    <entry file="file://$PROJECT_DIR$/src/prototype/model/disk/XiaoMiDisk.java" />
-    <entry file="file://$PROJECT_DIR$/src/prototype/model/cpu/XiaoMiCpu.java" />
-    <entry file="file://$PROJECT_DIR$/src/prototype/model/disk/Disk.java" />
-    <entry file="file://$PROJECT_DIR$/src/prototype/model/cpu/HuaWeiCpu.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-59" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/model/cpu/Cpu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/BuildDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/PersonBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
-            <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/model/cpu/HuaWeiCpu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/构建者模式.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/model/cpu/Cpu.java" />
-    <entry file="file://$PROJECT_DIR$/src/single.java" />
-    <entry file="file://$PROJECT_DIR$/src/single/model.java" />
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/model/cpu/XiaoMiCpu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/model/disk/HuaWeiDisk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/Prototype.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/single/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/factory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式-讲义.md" />
-    <entry file="file://$PROJECT_DIR$/src/single/Computer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/single/Computer2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templete/Company.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templete/AlibabaCompany.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templete/TestProcess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/AbstractFactoryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/PrototypeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templete/BaiduCompany.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxy/CgLibProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/AbstractFactoryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxy/test/ProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxy/service/StarSerivceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/model/disk/XiaoMiDisk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxy/service/StarSerivce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="701" column="20" lean-forward="true" selection-start-line="701" selection-start-column="20" selection-end-line="701" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/double_proxy/Cicada.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/proxy/JDKProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="57" column="55" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/double_proxy/Mantis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/double_proxy/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/abstract_factory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/abstract_factory/HuaWeiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorate/笔记">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/double_proxy/AbstractService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstract_factory/abstract_factory/XiaoMiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/double_proxy/BeanFatory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/double_proxy/ApplicationMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="304" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593414743384">
+      <screen x="0" y="23" width="1680" height="934" />
+    </state>
+    <state x="304" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.1920.1057/0.23.1680.934@0.23.1680.934" timestamp="1593414743384" />
+    <state x="2453" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1593414294665">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2453" y="242" key="#com.intellij.ide.util.MemberChooser/1680.23.1920.1057/0.23.1680.934@1680.23.1920.1057" timestamp="1593414294665" />
+    <state x="578" y="244" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593414489419">
+      <screen x="0" y="23" width="1680" height="934" />
+    </state>
+    <state x="578" y="244" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.1920.1057/0.23.1680.934@0.23.1680.934" timestamp="1593414489419" />
+    <state x="423" y="90" key="CommitChangelistDialog2" timestamp="1593415345600">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state x="423" y="90" key="CommitChangelistDialog2/1680.23.1920.1057/0.23.1680.925@0.23.1680.925" timestamp="1593415345600" />
+    <state width="1634" height="236" key="GridCell.Tab.0.bottom" timestamp="1593415314247">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1634" height="236" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.925@0.23.1680.925" timestamp="1593415314247" />
+    <state width="1634" height="236" key="GridCell.Tab.0.center" timestamp="1593415314246">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1634" height="236" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.925@0.23.1680.925" timestamp="1593415314246" />
+    <state width="1634" height="236" key="GridCell.Tab.0.left" timestamp="1593415314245">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1634" height="236" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.925@0.23.1680.925" timestamp="1593415314245" />
+    <state width="1634" height="236" key="GridCell.Tab.0.right" timestamp="1593415314246">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1634" height="236" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.925@0.23.1680.925" timestamp="1593415314246" />
+    <state x="505" y="227" width="670" height="676" key="search.everywhere.popup" timestamp="1593414526865">
+      <screen x="0" y="23" width="1680" height="934" />
+    </state>
+    <state x="505" y="227" width="670" height="676" key="search.everywhere.popup/1680.23.1920.1057/0.23.1680.934@0.23.1680.934" timestamp="1593414526865" />
   </component>
   <component name="masterDetails">
     <states>
