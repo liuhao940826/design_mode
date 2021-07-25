@@ -22,7 +22,9 @@ package single;
  */
 public class  Computer1 {
 
-    private static Computer1 computer =null;
+    private  static Computer1 computer =null;
+    //保证有序性和 可见性
+//    private  static volatile Computer1 computer =null;
 
     private Computer1() {
     }
