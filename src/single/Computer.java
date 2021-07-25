@@ -7,11 +7,14 @@ package single;
  */
 public class Computer {
 
+    private static Computer computer = new Computer();
+
+
     private  Computer() {
     }
 
     public  Computer getInstrace(){
-        return new Computer();
+        return computer;
     }
 
     public void run(){
